@@ -13,7 +13,7 @@
 
 ## 🚀 About Me
 
-I'm a **Bioinformatics Developer** passionate about turning complex biological data into actionable insights. I work at the intersection of **genomics, data science, and machine learning** — building scalable pipelines that power modern life sciences research.
+I'm a **Bioinformatics Developer** passionate about turning complex biological data into actionable insights. I work at the intersection of **genomics, data science, and machine learning**. Building scalable pipelines that power modern life sciences research.
 
 - 🔬 Working with **Next-Generation Sequencing Data**, training ML models, and Developing QC pipelines
 - ⚡ Building reproducible, scalable workflows on **HPC environments**
