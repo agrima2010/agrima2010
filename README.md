@@ -18,7 +18,7 @@ I'm a **Bioinformatics Developer** passionate about turning complex biological d
 - 🔬 Working with **Next-Generation Sequencing Data**, training ML models, and Developing QC pipelines
 - ⚡ Building reproducible, scalable workflows on **HPC environments**
 - 🤖 Applying **ML/AI** to biological sequence data
-- 🌱 Always learning — currently diving deeper into **nf-core** and cloud-based bioinformatics
+- 🌱 Always learning! Currently diving deeper into **nf-core** and cloud-based bioinformatics
 
 ---
 
