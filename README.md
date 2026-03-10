@@ -6,6 +6,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Agrima%20Bhatt-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/agrima-bhatt/)
 [![GitHub](https://img.shields.io/badge/GitHub-agrima2010-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/agrima2010)
+[![Email](https://img.shields.io/badge/Email-agrima2010%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:agrima2010@gmail.com)
 
 </div>
 
@@ -31,11 +32,6 @@ I'm a **Bioinformatics Developer** passionate about turning complex biological d
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
 ![Nextflow](https://img.shields.io/badge/Nextflow-1ABC9C?style=for-the-badge&logo=nextflow&logoColor=white)
 
-**Data & ML**
-
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 
 **Infrastructure**
 
