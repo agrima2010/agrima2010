@@ -56,17 +56,6 @@ I'm a **Bioinformatics Developer** passionate about turning complex biological d
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-![Agrima's GitHub Stats](https://github-readme-stats.vercel.app/api?username=agrima2010&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=1ABC9C&icon_color=1ABC9C&text_color=FFFFFF&count_private=true&include_all_commits=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=agrima2010&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=1ABC9C&text_color=FFFFFF)
-
-</div>
-
----
 
 ## 💡 What I'm Looking For
 
