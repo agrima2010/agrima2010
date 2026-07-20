@@ -2,8 +2,6 @@
 
 # Agrima Bhatt
 
-### Bioinformatician · Nextflow pipeline developer · Interested in Genomics and NGS Data Analysis
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Agrima%20Bhatt-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/agrima-bhatt/)
 [![GitHub](https://img.shields.io/badge/GitHub-agrima2010-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/agrima2010)
 [![Email](https://img.shields.io/badge/Email-agrima2010%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:agrima2010@gmail.com)
