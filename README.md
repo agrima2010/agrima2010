@@ -1,8 +1,8 @@
 <div align="center">
 
-# 🧬 Agrima Bhatt
+# Agrima Bhatt
 
-### Bioinformatician · Data/ML/AI · Genomics Enthusiast
+### Bioinformatician · Nextflow pipeline developer · Interested in Genomics and NGS Data Analysis
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Agrima%20Bhatt-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/agrima-bhatt/)
 [![GitHub](https://img.shields.io/badge/GitHub-agrima2010-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/agrima2010)
@@ -12,60 +12,47 @@
 
 ---
 
-## 🚀 About Me
+## About
 
-I'm a **Bioinformatics Developer** passionate about turning complex biological data into actionable insights. I work at the intersection of **genomics, data science, and machine learning**. Building scalable pipelines that power modern life sciences research.
-
-- 🔬 Working with **Next-Generation Sequencing Data**, training ML models, and Developing QC pipelines
-- ⚡ Building reproducible, scalable workflows on **HPC environments**
-- 🤖 Applying **ML/AI** to biological sequence data
-- 🌱 Always learning! Currently diving deeper into **nf-core** and cloud-based bioinformatics
+- Bioinformatician with a double master's in Biotechnology (India) and Precision Medicine (Uppsala University, Sweden) with knowledge and experience of working in both wet-lab and dry-lab environments.
 
 ---
 
-## 🛠️ Tech Stack
+## Tech
 
-**Languages**
+`Nextflow` · `nf-core` · `Python` · `R` · `Bash` · `Linux/HPC` · `Docker` · `Git`
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
-![Nextflow](https://img.shields.io/badge/Nextflow-1ABC9C?style=for-the-badge&logo=nextflow&logoColor=white)
-
-
-**Infrastructure**
-
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![HPC](https://img.shields.io/badge/HPC-Environments-FF6B6B?style=for-the-badge)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+<!-- Trim this to only tools you've actually used hands-on. -->
 
 ---
 
-## 🧪 Featured Projects
+## Projects
 
-### 🔬 [NGI-ONT scRNA-seq Tech Note](https://github.com/agrima2010/NGI-ONT_scRNAseq-tech_note-2025)
-> Contributed to a **National Genomics Infrastructure** technical note on Oxford Nanopore Technology single-cell RNA sequencing workflows. Built with Jupyter Notebook for reproducible analysis.
+### nf-core/seqinspector — QC pipeline for sequencing cores
+[![repo](https://img.shields.io/badge/repo-agrima2010%2Fseqinspector-181717?logo=github)](https://github.com/nf-core/seqinspector/tree/master)
 
-### 🔍 [SeqInspector](https://github.com/agrima2010/seqinspector)
-> A **QC pipeline** built with Nextflow to inspect and validate sequencing data. Forked and extended from nf-core with custom enhancements.
+Dedicated QC-only pipeline for sequencing data. 
 
+**Contributions :**
+- Development of the pipeline by adding subworkflows and QC modules such as Picard tools, SAMtools, BWA-MEM2, fastp, fqlint, Kraken2.
+- Wrote module tests and assisted in the pipeline release.
+
+---
+
+### Selective Metagenomics through Adaptive Nanopore Sequencing
+
+Significance: Adaptive sampling on Oxford Nanopore Technologies (ONT) platforms selectively sequence target molecules by alignment to a reference genome. This project aimed to replace the alignment step with a deep learning-based taxonomic classifier (BERTax), enabling enrichment of broad taxonomic groups rather than specific known organisms.
 
 ---
 
+## Currently
 
-## 💡 What I'm Looking For
+- Contributing to **nf-core/sarek** modularization
+- Working on AI Automation workflows
 
-I'm open to **bioinformatics, data science, or ML engineering roles** where I can:
-- Build and optimize computational pipelines
-- Apply AI/ML to genomics or life sciences data
-- Work with cross-functional teams across biology and engineering
-
----
 
 <div align="center">
 
-**Let's connect and build something impactful together.**
-
-[![LinkedIn](https://img.shields.io/badge/Reach%20out%20on%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/agrima-bhatt/)
+**Let's build something.** → [LinkedIn](https://www.linkedin.com/in/agrima-bhatt/)
 
 </div>
